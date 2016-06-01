@@ -1,4 +1,4 @@
-# finalspeed_server-install
+# finalspeed-install
 ```json
  wget  https://raw.githubusercontent.com/punszeto/finalspeed_server/master/install_fs.sh
  chmod +x install_fs.sh
