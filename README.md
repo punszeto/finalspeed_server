@@ -1,1 +1,7 @@
-高速双边加速软件,在高丢包,延迟环境下仍可达到90%物理带宽利用率.
+Easy installation
+
+wget  https://raw.githubusercontent.com/punszeto/finalspeed_server/master/install_fs.sh
+chmod +x install_fs.sh
+./install_fs.sh 2>&1 | tee install.log
+
+
