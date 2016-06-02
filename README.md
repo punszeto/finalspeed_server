@@ -26,7 +26,7 @@ vi /etc/rc.local
 add
 sh /fs/start.sh
 ```
-setting auto reatart
+setting auto restart
 ---
 ```
 crontab -e
